@@ -1,5 +1,5 @@
 import streamlit as st
-import pymupdf
+import PyMuPDF
 import google.generativeai as genai
 from dotenv import load_dotenv
 import os
